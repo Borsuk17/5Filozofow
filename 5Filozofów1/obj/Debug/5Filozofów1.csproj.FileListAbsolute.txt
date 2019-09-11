@@ -1,0 +1,14 @@
+C:\Users\Macie\source\repos\5Filozofów1\5Filozofów1\bin\Debug\5Filozofów1.exe.config
+C:\Users\Macie\source\repos\5Filozofów1\5Filozofów1\bin\Debug\5Filozofów1.exe
+C:\Users\Macie\source\repos\5Filozofów1\5Filozofów1\bin\Debug\5Filozofów1.pdb
+C:\Users\Macie\source\repos\5Filozofów1\5Filozofów1\obj\Debug\5Filozofów1.csprojResolveAssemblyReference.cache
+C:\Users\Macie\source\repos\5Filozofów1\5Filozofów1\obj\Debug\5Filozofów1.csproj.CoreCompileInputs.cache
+C:\Users\Macie\source\repos\5Filozofów1\5Filozofów1\obj\Debug\5Filozofów1.exe
+C:\Users\Macie\source\repos\5Filozofów1\5Filozofów1\obj\Debug\5Filozofów1.pdb
+C:\Users\Macie\Desktop\DODATKOWE Z KOMPA\repos\5Filozofów1\5Filozofów1\bin\Debug\5Filozofów1.exe.config
+C:\Users\Macie\Desktop\DODATKOWE Z KOMPA\repos\5Filozofów1\5Filozofów1\bin\Debug\5Filozofów1.exe
+C:\Users\Macie\Desktop\DODATKOWE Z KOMPA\repos\5Filozofów1\5Filozofów1\bin\Debug\5Filozofów1.pdb
+C:\Users\Macie\Desktop\DODATKOWE Z KOMPA\repos\5Filozofów1\5Filozofów1\obj\Debug\5Filozofów1.csprojAssemblyReference.cache
+C:\Users\Macie\Desktop\DODATKOWE Z KOMPA\repos\5Filozofów1\5Filozofów1\obj\Debug\5Filozofów1.csproj.CoreCompileInputs.cache
+C:\Users\Macie\Desktop\DODATKOWE Z KOMPA\repos\5Filozofów1\5Filozofów1\obj\Debug\5Filozofów1.exe
+C:\Users\Macie\Desktop\DODATKOWE Z KOMPA\repos\5Filozofów1\5Filozofów1\obj\Debug\5Filozofów1.pdb
